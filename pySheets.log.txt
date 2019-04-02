@@ -1,0 +1,369 @@
+2019-03-31T19:35:38 pySheets.py: abc def 2
+2019-03-31T19:35:38 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T19:37:52 pySheets.py: abc def 2
+2019-03-31T19:37:52 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T19:40:58 pySheets.py: abc def 2
+2019-03-31T19:41:20 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T19:42:34 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T19:42:58 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T19:43:23 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T19:43:33 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T19:44:59 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T19:45:24 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T19:50:56 pySheets.py: abc def 2
+2019-03-31T19:51:01 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T19:51:03 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T19:51:33 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T19:52:53 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T19:54:18 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T19:54:26 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T19:54:56 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T20:06:39 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T20:08:57 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T20:09:07 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T20:09:14 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T20:09:23 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T20:10:23 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T20:10:44 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T20:11:25 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T20:14:22 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T20:14:57 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T20:14:57 pySheets.py: DFB_to_XL:  Wrote to test2.xls
+2019-03-31T20:14:57 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-03-31T20:15:20 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T20:15:20 pySheets.py: DFB_to_XL:  Wrote to test2.xls
+2019-03-31T20:15:20 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-03-31T20:17:35 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T20:17:35 pySheets.py: DFB_to_XL:  Wrote to test2.xls
+2019-03-31T20:17:35 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-03-31T20:17:41 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f154e5462e8>
+2019-03-31T20:18:16 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f154acf0c18>
+2019-03-31T20:20:26 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f154ab9e0f0>
+2019-03-31T20:21:26 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f154ad5f9b0>
+2019-03-31T20:21:39 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f154ab0b828>
+2019-03-31T20:22:19 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f154ab0bac8>
+2019-03-31T20:22:55 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f154aa3c390>
+2019-03-31T20:23:57 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f154ab9dc50>
+2019-03-31T20:25:47 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f154a7910b8>
+2019-03-31T20:26:21 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f154a57acc0>
+2019-03-31T20:26:40 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f154a9f1e10>
+2019-03-31T20:27:50 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f154a679f98>
+2019-03-31T20:27:58 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f154a679128>
+2019-03-31T20:28:24 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f154a395e48>
+2019-03-31T20:29:24 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f154a265128>
+2019-03-31T20:29:48 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f154a40f400>
+2019-03-31T20:30:00 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f154a194b38>
+2019-03-31T20:30:49 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-03-31T20:30:49 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f154f06eef0>
+2019-03-31T20:30:50 pySheets.py: DFB_to_GS: updated pySheetsTester
+2019-03-31T20:31:26 pySheets.py: get_DFB:  working on test2.xls
+2019-03-31T20:31:26 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-03-31T20:31:26 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f154a1a7470>
+2019-03-31T20:31:27 pySheets.py: get_DFB:  working on <Spreadsheet 'pySheetsTester' Sheets:2>
+2019-03-31T20:31:27 pySheets.py: get_DFB:  working on https://docs.google.com/spreadsheets/d/1MP6BHQ_LP20FD28pL81hW8itCO7OlY3uT5dX9NW4Yk4/edit#gid=0
+2019-03-31T20:31:27 pySheets.py: ERROR: give me an authenticated GoogleSheet, not it's URL
+2019-03-31T20:33:07 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T20:33:07 pySheets.py: write_DFB processing odict_keys(['SheetTheFirst', 'SheetTheSecond']) test2.xls
+2019-03-31T20:33:07 pySheets.py: DFB_to_XL:  Wrote to test2.xls
+2019-03-31T20:33:07 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f154a318e80>
+2019-03-31T20:33:08 pySheets.py: write_DFB processing odict_keys(['SheetTheFirst', 'SheetTheSecond']) <Spreadsheet 'pySheetsTester' Sheets:2>
+2019-03-31T20:33:09 pySheets.py: DFB_to_GS: updated pySheetsTester
+2019-03-31T20:34:43 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T20:34:50 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T20:50:53 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T20:51:21 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T20:52:32 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T20:53:22 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T21:22:27 pySheets.py: abc def 2
+2019-03-31T21:22:36 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T21:22:59 pySheets.py: abc def 2
+2019-03-31T21:29:47 pySheets.py: DFB_to_XL:  Wrote to test.xls
+2019-03-31T21:29:47 pySheets.py: xl_to_DFB:  Reading test.xls
+2019-03-31T21:30:53 pySheets.py: DFB_to_XL:  Wrote to test.xls
+2019-03-31T21:30:53 pySheets.py: xl_to_DFB:  Reading test.xls
+2019-03-31T21:31:15 pySheets.py: DFB_to_XL:  Wrote to test.xls
+2019-03-31T21:31:15 pySheets.py: xl_to_DFB:  Reading test.xls
+2019-03-31T21:31:25 pySheets.py: DFB_to_XL:  Wrote to test.xls
+2019-03-31T21:31:25 pySheets.py: xl_to_DFB:  Reading test.xls
+2019-03-31T21:32:45 pySheets.py: DFB_to_XL:  Wrote to test.xls
+2019-03-31T21:32:45 pySheets.py: xl_to_DFB:  Reading test.xls
+2019-03-31T21:35:02 pySheets.py: DFB_to_XL:  Wrote to test.xls
+2019-03-31T21:35:02 pySheets.py: xl_to_DFB:  Reading test.xls
+2019-03-31T21:35:12 pySheets.py: DFB_to_XL:  Wrote to test.xls
+2019-03-31T21:35:12 pySheets.py: xl_to_DFB:  Reading test.xls
+2019-03-31T21:35:30 pySheets.py: DFB_to_XL:  Wrote to test.xls
+2019-03-31T21:35:30 pySheets.py: xl_to_DFB:  Reading test.xls
+2019-03-31T21:35:30 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T21:36:46 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f31bfce7f28>
+2019-03-31T21:39:06 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f31bc0b1b38>
+2019-03-31T21:41:35 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f31e9feb470>
+2019-03-31T21:44:17 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-03-31T21:44:17 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f31bf92cba8>
+2019-03-31T21:44:20 pySheets.py: DFB_to_GS: updated pySheetsTester
+2019-03-31T21:54:16 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f31bbfa6048>
+2019-03-31T21:55:06 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f31bc0e9358>
+2019-03-31T21:56:08 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-03-31T21:56:08 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f31bbfd8588>
+2019-03-31T21:56:11 pySheets.py: DFB_to_GS: updated pySheetsTester
+2019-03-31T21:59:08 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T21:59:08 pySheets.py: write_DFB processing odict_keys(['SheetTheFirst', 'SheetTheSecond']) test2.xls
+2019-03-31T21:59:08 pySheets.py: DFB_to_XL:  Wrote to test2.xls
+2019-03-31T21:59:08 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f31bc01add8>
+2019-03-31T21:59:09 pySheets.py: write_DFB processing odict_keys(['SheetTheFirst', 'SheetTheSecond']) <Spreadsheet 'pySheetsTester' Sheets:2>
+2019-03-31T21:59:11 pySheets.py: DFB_to_GS: updated pySheetsTester
+2019-03-31T21:59:19 pySheets.py: abc def 2
+2019-03-31T21:59:20 pySheets.py: DFB_to_XL:  Wrote to test.xls
+2019-03-31T21:59:20 pySheets.py: xl_to_DFB:  Reading test.xls
+2019-03-31T21:59:20 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T21:59:21 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7fdcbdc65b70>
+2019-03-31T21:59:22 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7fdcba0ac198>
+2019-03-31T21:59:24 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-03-31T21:59:24 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7fdcba09f7f0>
+2019-03-31T21:59:27 pySheets.py: DFB_to_GS: updated pySheetsTester
+2019-03-31T21:59:27 pySheets.py: get_DFB:  working on test2.xls
+2019-03-31T21:59:27 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-03-31T21:59:27 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7fdcba09ff98>
+2019-03-31T21:59:28 pySheets.py: get_DFB:  working on <Spreadsheet 'pySheetsTester' Sheets:2>
+2019-03-31T21:59:29 pySheets.py: get_DFB:  working on https://docs.google.com/spreadsheets/d/1MP6BHQ_LP20FD28pL81hW8itCO7OlY3uT5dX9NW4Yk4/edit#gid=0
+2019-03-31T21:59:29 pySheets.py: ERROR: give me an authenticated GoogleSheet, not it's URL
+2019-03-31T21:59:29 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T21:59:29 pySheets.py: write_DFB processing odict_keys(['SheetTheFirst', 'SheetTheSecond']) test2.xls
+2019-03-31T21:59:29 pySheets.py: DFB_to_XL:  Wrote to test2.xls
+2019-03-31T21:59:29 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7fdcb9eadf98>
+2019-03-31T21:59:30 pySheets.py: write_DFB processing odict_keys(['SheetTheFirst', 'SheetTheSecond']) <Spreadsheet 'pySheetsTester' Sheets:2>
+2019-03-31T21:59:32 pySheets.py: DFB_to_GS: updated pySheetsTester
+2019-03-31T22:08:58 pySheets.py: get_DFB:  working on test2.xls
+2019-03-31T22:08:58 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-03-31T22:08:58 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7fdcbdc65748>
+2019-03-31T22:08:59 pySheets.py: get_DFB:  working on <Spreadsheet 'pySheetsTester' Sheets:2>
+2019-03-31T22:12:27 pySheets.py: abc def 2
+2019-03-31T22:12:28 pySheets.py: DFB_to_XL:  Wrote to test.xls
+2019-03-31T22:12:28 pySheets.py: xl_to_DFB:  Reading test.xls
+2019-03-31T22:12:28 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T22:12:29 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f787a78dbe0>
+2019-03-31T22:12:30 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f7876bd8198>
+2019-03-31T22:12:31 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-03-31T22:12:31 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f7876b44a58>
+2019-03-31T22:12:35 pySheets.py: DFB_to_GS: updated pySheetsTester
+2019-03-31T22:12:35 pySheets.py: get_DFB:  working on test2.xls
+2019-03-31T22:12:35 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-03-31T22:12:35 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f7876bc6710>
+2019-03-31T22:12:35 pySheets.py: get_DFB:  working on <Spreadsheet 'pySheetsTester' Sheets:2>
+2019-03-31T22:12:36 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T22:12:36 pySheets.py: write_DFB processing odict_keys(['SheetTheFirst', 'SheetTheSecond']) test2.xls
+2019-03-31T22:12:36 pySheets.py: DFB_to_XL:  Wrote to test2.xls
+2019-03-31T22:12:36 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f7876aabef0>
+2019-03-31T22:12:37 pySheets.py: write_DFB processing odict_keys(['SheetTheFirst', 'SheetTheSecond']) <Spreadsheet 'pySheetsTester' Sheets:2>
+2019-03-31T22:12:40 pySheets.py: DFB_to_GS: updated pySheetsTester
+2019-03-31T22:12:55 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f7876bbe518>
+2019-03-31T22:17:36 pySheets.py: get_DFB:  working on test2.xls
+2019-03-31T22:17:36 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-03-31T22:17:36 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f78a59810f0>
+2019-03-31T22:17:37 pySheets.py: get_DFB:  working on <Spreadsheet 'pySheetsTester' Sheets:2>
+2019-03-31T22:18:49 pySheets.py: get_DFB:  working on test2.xls
+2019-03-31T22:18:49 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-03-31T22:18:49 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f7876c0c780>
+2019-03-31T22:18:50 pySheets.py: get_DFB:  working on <Spreadsheet 'pySheetsTester' Sheets:2>
+2019-03-31T22:21:02 pySheets.py: get_DFB:  working on test2.xls
+2019-03-31T22:21:16 pySheets.py: get_DFB:  working on test2.xls
+2019-03-31T22:21:16 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-03-31T22:21:16 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f7876923400>
+2019-03-31T22:21:16 pySheets.py: get_DFB:  working on <Spreadsheet 'pySheetsTester' Sheets:2>
+2019-03-31T22:25:09 pySheets.py: get_DFB:  working on test2.xls
+2019-03-31T22:25:09 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-03-31T22:25:09 pySheets.py: get_DFB:  working on https://docs.google.com/spreadsheets/d/1y19PMDTSqZkpW3UcwqG81tQMAH_g91iIqjrmBN_jTRw/edit#gid=0
+2019-03-31T22:25:09 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f7876923128>
+2019-03-31T22:26:39 pySheets.py: get_DFB:  working on test2.xls
+2019-03-31T22:26:39 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-03-31T22:26:39 pySheets.py: get_DFB:  working on https://docs.google.com/spreadsheets/d/1y19PMDTSqZkpW3UcwqG81tQMAH_g91iIqjrmBN_jTRw/edit#gid=0
+2019-03-31T22:26:39 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f7876a27b38>
+2019-03-31T22:31:26 pySheets.py: DFB_to_XL:  Wrote to test.xls
+2019-03-31T22:31:26 pySheets.py: xl_to_DFB:  Reading test.xls
+2019-03-31T22:31:26 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T22:31:55 pySheets.py: DFB_to_XL:  Wrote to test.xls
+2019-03-31T22:31:55 pySheets.py: xl_to_DFB:  Reading test.xls
+2019-03-31T22:31:55 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T22:36:28 pySheets.py: abc def 2
+2019-03-31T22:37:03 pySheets.py: DFB_to_XL:  Wrote to test.xls
+2019-03-31T22:37:03 pySheets.py: xl_to_DFB:  Reading test.xls
+2019-03-31T22:37:03 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T22:37:05 pySheets.py: DFB_to_XL:  Wrote to test.xls
+2019-03-31T22:37:05 pySheets.py: xl_to_DFB:  Reading test.xls
+2019-03-31T22:37:05 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T22:37:50 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f3b24bf28>
+2019-03-31T22:38:01 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f37a1de10>
+2019-03-31T22:38:41 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f37a68be0>
+2019-03-31T22:41:32 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f379b6898>
+2019-03-31T22:41:43 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f377a55c0>
+2019-03-31T22:42:10 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f37ae8d68>
+2019-03-31T22:42:50 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f37a8a2e8>
+2019-03-31T22:43:09 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f35ef5eb8>
+2019-03-31T22:43:34 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f35ef5e48>
+2019-03-31T22:43:52 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f35e67400>
+2019-03-31T22:44:32 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f35d28630>
+2019-03-31T22:45:09 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f35e67208>
+2019-03-31T22:45:33 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-03-31T22:45:33 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f3b24bcc0>
+2019-03-31T22:45:37 pySheets.py: DFB_to_GS: updated pySheetsTester
+2019-03-31T22:45:59 pySheets.py: get_DFB:  working on test2.xls
+2019-03-31T22:45:59 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-03-31T22:45:59 pySheets.py: get_DFB:  working on https://docs.google.com/spreadsheets/d/1y19PMDTSqZkpW3UcwqG81tQMAH_g91iIqjrmBN_jTRw/edit#gid=0
+2019-03-31T22:45:59 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f35dac080>
+2019-03-31T22:46:17 pySheets.py: get_DFB:  working on test2.xls
+2019-03-31T22:46:17 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-03-31T22:46:17 pySheets.py: get_DFB:  working on https://docs.google.com/spreadsheets/d/1y19PMDTSqZkpW3UcwqG81tQMAH_g91iIqjrmBN_jTRw/edit#gid=0
+2019-03-31T22:46:17 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f37836dd8>
+2019-03-31T22:46:36 pySheets.py: get_DFB:  working on test2.xls
+2019-03-31T22:46:36 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-03-31T22:46:36 pySheets.py: get_DFB:  working on https://docs.google.com/spreadsheets/d/1y19PMDTSqZkpW3UcwqG81tQMAH_g91iIqjrmBN_jTRw/edit#gid=0
+2019-03-31T22:46:36 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f35ef5e48>
+2019-03-31T22:46:38 pySheets.py: get_DFB:  working on https://docs.google.com/spreadsheets/d/1MP6BHQ_LP20FD28pL81hW8itCO7OlY3uT5dX9NW4Yk4/edit#gid=0
+2019-03-31T22:46:38 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f35db2f98>
+2019-03-31T22:47:08 pySheets.py: get_DFB:  working on test2.xls
+2019-03-31T22:47:08 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-03-31T22:47:08 pySheets.py: get_DFB:  working on https://docs.google.com/spreadsheets/d/1y19PMDTSqZkpW3UcwqG81tQMAH_g91iIqjrmBN_jTRw/edit#gid=0
+2019-03-31T22:47:08 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f35e67278>
+2019-03-31T22:47:55 pySheets.py: get_DFB:  working on test2.xls
+2019-03-31T22:47:55 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-03-31T22:47:55 pySheets.py: get_DFB:  working on https://docs.google.com/spreadsheets/d/1y19PMDTSqZkpW3UcwqG81tQMAH_g91iIqjrmBN_jTRw/edit#gid=0
+2019-03-31T22:47:55 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f35a29668>
+2019-03-31T22:48:49 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T22:48:49 pySheets.py: write_DFB processing odict_keys(['SheetTheFirst', 'SheetTheSecond']) test2.xls
+2019-03-31T22:48:49 pySheets.py: DFB_to_XL:  Wrote to test2.xls
+2019-03-31T22:48:49 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f35a195f8>
+2019-03-31T22:48:50 pySheets.py: write_DFB processing odict_keys(['SheetTheFirst', 'SheetTheSecond']) <Spreadsheet 'pySheetsTester' Sheets:2>
+2019-03-31T22:48:53 pySheets.py: DFB_to_GS: updated pySheetsTester
+2019-03-31T22:55:53 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T22:55:53 pySheets.py: write_DFB processing odict_keys(['SheetTheFirst', 'SheetTheSecond']) test2.xls
+2019-03-31T22:58:14 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T22:58:14 pySheets.py: write_DFB processing odict_keys(['SheetTheFirst', 'SheetTheSecond']) test2.xls
+2019-03-31T22:58:14 pySheets.py: DFB_to_XL:  Wrote to test2.xls
+2019-03-31T22:58:14 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f35a195c0>
+2019-03-31T22:58:14 pySheets.py: write_DFB processing odict_keys(['SheetTheFirst', 'SheetTheSecond']) <Spreadsheet 'pySheetsTester' Sheets:2>
+2019-03-31T22:59:16 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T22:59:16 pySheets.py: write_DFB processing odict_keys(['SheetTheFirst', 'SheetTheSecond']) test2.xls
+2019-03-31T22:59:16 pySheets.py: DFB_to_XL:  Wrote to test2.xls
+2019-03-31T23:00:40 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T23:00:40 pySheets.py: write_DFB processing odict_keys(['SheetTheFirst', 'SheetTheSecond']) test2.xls
+2019-03-31T23:00:40 pySheets.py: DFB_to_XL:  Wrote to test2.xls
+2019-03-31T23:00:40 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f35d4e2e8>
+2019-03-31T23:00:49 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-03-31T23:00:49 pySheets.py: write_DFB processing odict_keys(['SheetTheFirst', 'SheetTheSecond']) test2.xls
+2019-03-31T23:00:49 pySheets.py: DFB_to_XL:  Wrote to test2.xls
+2019-03-31T23:00:49 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f35ac1cf8>
+2019-03-31T23:00:50 pySheets.py: write_DFB processing odict_keys(['SheetTheFirst', 'SheetTheSecond']) <Spreadsheet 'pySheetsTester' Sheets:2>
+2019-03-31T23:05:47 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-03-31T23:05:47 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f378376a0>
+2019-03-31T23:05:48 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f3598c0f0>
+2019-03-31T23:06:25 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-03-31T23:06:25 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f3580cd68>
+2019-03-31T23:08:07 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f35a226d8>
+2019-03-31T23:09:03 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f35bd8ef0>
+2019-03-31T23:09:04 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f356fdc88>
+2019-03-31T23:10:08 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f8f355c1240>
+2019-04-01T18:18:12 pySheets.py: abc def 2
+2019-04-01T18:18:37 pySheets.py: DFB_to_XL:  Wrote to test.xls
+2019-04-01T18:18:37 pySheets.py: xl_to_DFB:  Reading test.xls
+2019-04-01T18:18:37 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-04-01T18:19:00 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7fbfae5c7320>
+2019-04-01T18:19:06 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7fbfd8727080>
+2019-04-01T18:19:08 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7fbfaa9e81d0>
+2019-04-01T18:19:15 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-04-01T18:19:15 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7fbfaa846940>
+2019-04-01T18:21:02 pySheets.py: abc def 2
+2019-04-01T18:38:18 pySheets.py: abc def 2
+2019-04-01T18:41:00 pySheets.py: abc def 2
+2019-04-01T19:19:53 pySheets.py: get_DFB:  working on test2.xls
+2019-04-01T19:20:03 pySheets.py: DFB_to_XL:  Wrote to test.xls
+2019-04-01T19:20:03 pySheets.py: xl_to_DFB:  Reading test.xls
+2019-04-01T19:20:03 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-04-01T19:20:08 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30aeef2400>
+2019-04-01T19:20:19 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30ab32f978>
+2019-04-01T19:21:13 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30ab363be0>
+2019-04-01T19:21:37 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30ab0c7ef0>
+2019-04-01T19:22:21 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30ab106160>
+2019-04-01T19:23:11 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-04-01T19:23:11 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30ab0b2da0>
+2019-04-01T19:23:34 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-04-01T19:23:34 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30ab301f98>
+2019-04-01T19:23:34 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30ab01aeb8>
+2019-04-01T19:23:36 pySheets.py: DFB_to_GS: updated pySheetsTester
+2019-04-01T19:23:48 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-04-01T19:23:48 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30aef029b0>
+2019-04-01T19:23:49 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30aaefa0f0>
+2019-04-01T19:23:51 pySheets.py: DFB_to_GS: updated pySheetsTester
+2019-04-01T19:25:10 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-04-01T19:25:10 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30ab0e9be0>
+2019-04-01T19:25:11 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30aad343c8>
+2019-04-01T19:25:14 pySheets.py: DFB_to_GS: updated pySheetsTester
+2019-04-01T19:25:46 pySheets.py: get_DFB:  working on test2.xls
+2019-04-01T19:25:46 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-04-01T19:25:46 pySheets.py: get_DFB:  working on https://docs.google.com/spreadsheets/d/1y19PMDTSqZkpW3UcwqG81tQMAH_g91iIqjrmBN_jTRw/edit#gid=0
+2019-04-01T19:25:46 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30aae1cef0>
+2019-04-01T19:25:47 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30aaf0eef0>
+2019-04-01T19:28:45 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-04-01T19:28:45 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30ab01a550>
+2019-04-01T19:28:45 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30aae04b70>
+2019-04-01T19:29:02 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-04-01T19:29:02 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30aae04048>
+2019-04-01T19:29:02 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30aaa8b160>
+2019-04-01T19:29:04 pySheets.py: DFB_to_GS: updated pySheetsTester
+2019-04-01T19:32:06 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-04-01T19:32:06 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30aacf15f8>
+2019-04-01T19:32:06 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30aa920160>
+2019-04-01T19:32:08 pySheets.py: DFB_to_GS: updated pySheetsTester
+2019-04-01T19:33:12 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-04-01T19:33:12 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30aab32f98>
+2019-04-01T19:33:14 pySheets.py: DFB_to_GS: updated pySheetsTester
+2019-04-01T19:33:56 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-04-01T19:33:56 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30aaae8390>
+2019-04-01T19:33:58 pySheets.py: DFB_to_GS: updated pySheetsTester
+2019-04-01T19:34:18 pySheets.py: get_DFB:  working on test2.xls
+2019-04-01T19:34:18 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-04-01T19:34:18 pySheets.py: get_DFB:  working on https://docs.google.com/spreadsheets/d/1y19PMDTSqZkpW3UcwqG81tQMAH_g91iIqjrmBN_jTRw/edit#gid=0
+2019-04-01T19:34:18 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30aabd5f98>
+2019-04-01T19:34:19 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30aaa69c88>
+2019-04-01T19:34:47 pySheets.py: get_DFB:  working on https://docs.google.com/spreadsheets/d/1y19PMDTSqZkpW3UcwqG81tQMAH_g91iIqjrmBN_jTRw/edit#gid=0
+2019-04-01T19:34:47 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30aa9b2358>
+2019-04-01T19:34:47 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30aa699c50>
+2019-04-01T19:36:15 pySheets.py: get_DFB:  working on https://docs.google.com/spreadsheets/d/1y19PMDTSqZkpW3UcwqG81tQMAH_g91iIqjrmBN_jTRw/edit#gid=0
+2019-04-01T19:36:44 pySheets.py: get_DFB:  working on https://docs.google.com/spreadsheets/d/1y19PMDTSqZkpW3UcwqG81tQMAH_g91iIqjrmBN_jTRw/edit#gid=0
+2019-04-01T19:36:44 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30aa5b9588>
+2019-04-01T19:37:03 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-04-01T19:37:03 pySheets.py: write_DFB processing odict_keys(['SheetTheFirst', 'SheetTheSecond']) test2.xls
+2019-04-01T19:37:03 pySheets.py: DFB_to_XL:  Wrote to test2.xls
+2019-04-01T19:37:03 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30aa5a9898>
+2019-04-01T19:37:04 pySheets.py: write_DFB processing odict_keys(['SheetTheFirst', 'SheetTheSecond']) <Spreadsheet 'pySheetsTester' Sheets:2>
+2019-04-01T19:38:42 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-04-01T19:39:00 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-04-01T19:39:00 pySheets.py: write_DFB processing odict_keys(['SheetTheFirst', 'SheetTheSecond']) test2.xls
+2019-04-01T19:39:00 pySheets.py: DFB_to_XL:  Wrote to test2.xls
+2019-04-01T19:39:00 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30aa9f1cf8>
+2019-04-01T19:39:00 pySheets.py: write_DFB processing odict_keys(['SheetTheFirst', 'SheetTheSecond']) <Spreadsheet 'pySheetsTester' Sheets:2>
+2019-04-01T19:39:55 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-04-01T19:39:55 pySheets.py: write_DFB processing odict_keys(['SheetTheFirst', 'SheetTheSecond']) test2.xls
+2019-04-01T19:39:55 pySheets.py: DFB_to_XL:  Wrote to test2.xls
+2019-04-01T19:40:01 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-04-01T19:40:01 pySheets.py: write_DFB processing odict_keys(['SheetTheFirst', 'SheetTheSecond']) test2.xls
+2019-04-01T19:40:01 pySheets.py: DFB_to_XL:  Wrote to test2.xls
+2019-04-01T19:40:01 pySheets.py: write_DFB processing odict_keys(['SheetTheFirst', 'SheetTheSecond']) https://docs.google.com/spreadsheets/d/1y19PMDTSqZkpW3UcwqG81tQMAH_g91iIqjrmBN_jTRw/edit#gid=1856401945
+2019-04-01T19:40:01 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f30aa6a3630>
+2019-04-01T19:40:03 pySheets.py: DFB_to_GS: updated pySheetsTester
+2019-04-02T01:16:14 pySheets.py: abc def 2
+2019-04-02T01:16:15 pySheets.py: DFB_to_XL:  Wrote to test.xls
+2019-04-02T01:16:15 pySheets.py: xl_to_DFB:  Reading test.xls
+2019-04-02T01:16:15 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-04-02T01:17:32 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f3774bf04e0>
+2019-04-02T01:18:14 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f3770da9780>
+2019-04-02T01:18:18 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f3770e5d6d8>
+2019-04-02T01:18:21 pySheets.py: xl_to_DFB:  Reading test2.xls
+2019-04-02T01:18:21 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f3770c4ef28>
+2019-04-02T01:18:24 pySheets.py: DFB_to_GS: updated pySheetsTester
+2019-04-02T01:18:24 pySheets.py: get_DFB:  working on https://docs.google.com/spreadsheets/d/1y19PMDTSqZkpW3UcwqG81tQMAH_g91iIqjrmBN_jTRw/edit#gid=0
+2019-04-02T01:18:24 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f3770e5d320>
+2019-04-02T01:18:27 pySheets.py: xl_to_DFB:  Reading df2gSheetTester.xlsx
+2019-04-02T01:18:27 pySheets.py: write_DFB processing odict_keys(['SheetTheFirst', 'SheetTheSecond']) test2.xls
+2019-04-02T01:18:27 pySheets.py: DFB_to_XL:  Wrote to test2.xls
+2019-04-02T01:18:27 pySheets.py: write_DFB processing odict_keys(['SheetTheFirst', 'SheetTheSecond']) https://docs.google.com/spreadsheets/d/1y19PMDTSqZkpW3UcwqG81tQMAH_g91iIqjrmBN_jTRw/edit#gid=1856401945
+2019-04-02T01:18:27 pySheets.py: getGoogleSheet:   <pygsheets.client.Client object at 0x7f379eb669e8>
+2019-04-02T01:18:29 pySheets.py: DFB_to_GS: updated pySheetsTester
